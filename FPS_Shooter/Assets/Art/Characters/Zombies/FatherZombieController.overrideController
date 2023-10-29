@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FatherZombieController
+  m_Controller: {fileID: 9100000, guid: bb72ea15bfe9e724384d99704df0cfc6, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: -203655887218126122, guid: cc90d88f0e8d7ff4bbf7f5600a8f2c27,
+      type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 0988220455dbc3e438473da6113e5f04,
+      type: 3}
+  - m_OriginalClip: {fileID: -203655887218126122, guid: dd3cca71ba907cb4cbc891aea7e6edf1,
+      type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 6eaad33e5a953b4469342c1e32fa1fcf,
+      type: 3}
+  - m_OriginalClip: {fileID: -203655887218126122, guid: a1ea306d57ff59c4689e4265a8384ff6,
+      type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: b4af74af0614ff44d82831622486ee3a,
+      type: 3}
+  - m_OriginalClip: {fileID: -203655887218126122, guid: 7b04b73c412f47841b92e9f89e27a864,
+      type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 12dbd0733c3cf664f8b22ec7e6ddecb9,
+      type: 3}
+  - m_OriginalClip: {fileID: -203655887218126122, guid: 939dd0ea92d21504c89cb59906e1a307,
+      type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: fc3630c9adc179a4692a48e21a836d99,
+      type: 3}
